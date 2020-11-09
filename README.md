@@ -6,7 +6,7 @@ The solutions for the below problems can be found in the following files
 * PintSumPairs.java
 * PrintSubstrings.java
 
-* Files location : solutions/my-solutions/src/main/java/solutions/
+<b>Files location : solutions/my-solutions/src/main/java/solutions/
 
 ## Problem Details
 
