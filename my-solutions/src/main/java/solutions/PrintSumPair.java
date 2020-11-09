@@ -11,7 +11,7 @@ Sample output: (1,9), (1,9), (6,4), (3,7), (2,8), (2,8), (5,5), (5,5), (5,5), (8
 
 //Time complexity : O(n) (actually O(n+c) where c is the count of pairs of given sum..but its negligible)
 //Space complexity : O(n) -> size of the output map
-public class PintSumPairs {
+public class PrintSumPair {
 
     private void findPairs(int[] nums, int k) {
         //map to maintain the frequency of
@@ -40,7 +40,7 @@ public class PintSumPairs {
     }
 
     public static void main(String[] args) {
-        PintSumPairs p = new PintSumPairs();
+        PrintSumPair p = new PrintSumPair();
         int[] input = {1, 6, 3, 2, 5, 5, 7, 8, 4, 8, 2, 5, 9, 9, 1};
         p.findPairs(input, 10);
     }
