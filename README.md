@@ -2,8 +2,8 @@
 
 The solutions for the below problems can be found in the following files
 
-* Histogram.java
-* SumPairs.java
+* PrintHistogram.java
+* PintSumPairs.java
 * PrintSubstrings.java
 
 ## Problem Details
