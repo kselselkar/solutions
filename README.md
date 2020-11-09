@@ -3,8 +3,8 @@
 The solutions for the below problems can be found in the following files
 
 * PrintHistogram.java
-* PintSumPairs.java
 * PrintSubstrings.java
+* PintSumPair.java
 
 <b>Files location : solutions/my-solutions/src/main/java/solutions/
 
