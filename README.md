@@ -6,4 +6,4 @@ This repo has solutions for the below problems in the following files
 * SumPairs.java
 * PrintSubstrings.java
 
-##Problem Details
+## Problem Details
