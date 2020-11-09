@@ -1,0 +1,32 @@
+Histogram output of file PrintHistogram
+
+Num |   Count
+1  |   xx
+2  |   xxxx
+3  |   x
+4  |   xx
+5  |   xxx
+12  |   xxxx
+95  |   x
+98  |   x
+99  |   x
+99+ |   xxxx
+
+Print sum pairs
+
+[(1, 9), (1, 9)] [(6, 4)] [(3, 7)] [(2, 8), (2, 8)] [(5, 5), (5, 5), (5, 5)] [(7, 3)] [(8, 2), (8, 2)] [(4, 6)] [(9, 1), (9, 1)]
+
+Print sub string
+
+b
+a
+ab
+
+
+c
+b
+bc
+a
+ac
+ab
+abc
